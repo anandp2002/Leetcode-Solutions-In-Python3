@@ -1,28 +1,27 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         res = []
-        if len(matrix) == 0:
-            return res
-        row_begin = 0
-        col_begin = 0
-        row_end = len(matrix)-1 
-        col_end = len(matrix[0])-1
-        while (row_begin <= row_end and col_begin <= col_end):
-            for i in range(col_begin,col_end+1):
-                res.append(matrix[row_begin][i])
-            row_begin += 1
-            for i in range(row_begin,row_end+1):
-                res.append(matrix[i][col_end])
-            col_end -= 1
-            if (row_begin <= row_end):
-                for i in range(col_end,col_begin-1,-1):
-                    res.append(matrix[row_end][i])
-                row_end -= 1
-            if (col_begin <= col_end):
-                for i in range(row_end,row_begin-1,-1):
-                    res.append(matrix[i][col_begin])
-                col_begin += 1
-        return res
-    
-                
+        direction=0
+        left,right=0,len(matrix[0])-1
+        top,down=0,len(matrix)-1
+
+        while(left<=right and top<=down):
+            if(direction==0):
+                for i in range(left,right+1):
+                    res.append(matrix[top][i])
+                top+=1
+            elif(direction==1):
+                for i in range(top,down+1):
+                    res.append(matrix[i][right])
+                right-=1
+            elif(direction==2):
+                for i in range(right,left-1,-1):
+                    res.append(matrix[down][i])
+                down-=1
+            else:
+                for i in range(down,top-1,-1):
+                    res.append(matrix[i][left])
+                left+=1
+            direction=(direction+1)%4
         
+        return res
