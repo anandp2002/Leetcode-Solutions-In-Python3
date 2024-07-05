@@ -26,4 +26,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
