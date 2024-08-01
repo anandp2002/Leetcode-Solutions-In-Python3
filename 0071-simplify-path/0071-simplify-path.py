@@ -3,14 +3,14 @@ class Solution:
         arr = path.split("/")
         stack = []
 
-        for sec in arr:
-            # Section is not empty and section is not "." which means just current directory
-            if sec != '' and sec != ".":
-                if sec == "..":
-                    # Pop previous val in stack if sec is ".."
+        for section in arr:
+            # section is not empty and section is not "." which means just current directory
+            if section != '' and section != ".":
+                if section == "..":
+                    # Pop previous section from the stack if section is ".."
                     if stack:
                         stack.pop()
                 else:
-                    stack.append(sec)
+                    stack.append(section)
 
         return "/" + "/".join(stack)
