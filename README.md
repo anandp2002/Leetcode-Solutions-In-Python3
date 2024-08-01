@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
