@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2476-check-distances-between-same-letters](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/2476-check-distances-between-same-letters) |
 ## Matrix
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0073-set-matrix-zeroes) |
+| [2476-check-distances-between-same-letters](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/2476-check-distances-between-same-letters) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0071-simplify-path) |
+| [2476-check-distances-between-same-letters](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/2476-check-distances-between-same-letters) |
 ## Stack
 |  |
 | ------- |
