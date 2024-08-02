@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0073-set-matrix-zeroes) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Matrix
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0155-min-stack) |
 ## Design
 |  |
