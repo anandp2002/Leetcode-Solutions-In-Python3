@@ -11,4 +11,4 @@ class Solution:
                 num2=stack.pop()
                 res=int(eval(str(num2)+token+str(num1)))
                 stack.append(res)
-        return stack[-1]
+        return stack.pop()
