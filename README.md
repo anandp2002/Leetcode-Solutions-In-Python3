@@ -7,16 +7,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0289-game-of-life](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0289-game-of-life) |
 | [2476-check-distances-between-same-letters](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/2476-check-distances-between-same-letters) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0289-game-of-life) |
 ## Database
 |  |
 | ------- |
