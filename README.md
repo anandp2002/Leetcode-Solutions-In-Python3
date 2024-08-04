@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0289-game-of-life](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0289-game-of-life) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2476-check-distances-between-same-letters](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/2476-check-distances-between-same-letters) |
 ## Matrix
 |  |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0155-min-stack) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Sorting
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anandp2002/Leetcode-Solutions-In-Python3/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
